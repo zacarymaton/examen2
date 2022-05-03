@@ -1,5 +1,5 @@
 [bionic]
-192.168.122.244 ansible_user=alvarocruz ansible_ssh_private_key_file=./bionic.key
+192.168.122.174 ansible_user=alvarocruz ansible_ssh_private_key_file=./bionic.key
 
 [bionic:vars]
 http_port=80
