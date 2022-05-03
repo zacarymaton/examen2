@@ -31,6 +31,6 @@
           - "{{http_port}}:{{http_port}}"
           - "{{https_port}}:{{https_port}}"
         env:
-          CODIAD_USERNAME: root
-          CODIAD_PASSWORD: sesamo
+          CODIAD_USERNAME: alvarocruz
+          CODIAD_PASSWORD: 75694528
 
